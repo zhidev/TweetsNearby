@@ -86,7 +86,7 @@
                                 <color key="textColor" red="0.57729617170000003" green="1" blue="0.125578264" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="69" y="501" width="24" height="21"/>
+                                    <rect key="frame" x="20" y="501" width="158" height="21"/>
                                 </variation>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0.0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Dzi-oA-ATj">
@@ -95,7 +95,7 @@
                                 <color key="textColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="294" y="501" width="24" height="21"/>
+                                    <rect key="frame" x="194" y="501" width="186" height="21"/>
                                 </variation>
                             </label>
                         </subviews>
