@@ -8,6 +8,8 @@
 
 import UIKit
 import TwitterKit
+import SwiftyJSON
+import Alamofire
 
 class TweetTableViewViewController: UITableViewController, TWTRTweetViewDelegate {
     let tweetTableReuseIdentifier = "TweetCell"
